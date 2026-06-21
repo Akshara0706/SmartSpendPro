@@ -18,3 +18,12 @@ Built purely using vanilla JavaScript, modern CSS, and HTML5, the app keeps your
 * **Frontend:** Vanilla JavaScript (ES6+), HTML5, CSS Variables
 * **Libraries:** [Chart.js](https://www.chartjs.org/) for data rendering
 * **Fonts:** Google Fonts (Nunito & Space Mono)
+  <img width="1440" height="900" alt="Screenshot 2026-06-21 at 12 18 43 PM" src="https://github.com/user-attachments/assets/dd533ea5-26c2-460c-96dd-136d1c389047" />
+<img width="1440" height="900" alt="Screenshot 2026-06-21 at 12 14 00 PM" src="https://github.com/user-attachments/assets/ae597d84-5c9f-4776-afca-3c8cef00ae2c" />
+<img width="1440" height="900" alt="Screenshot 2026-06-21 at 12 14 06 PM" src="https://github.com/user-attachments/assets/a217a2cc-5fa4-4690-995f-41e553341b73" />
+<img width="1440" height="900" alt="Screenshot 2026-06-21 at 12 14 15 PM" src="https://github.com/user-attachments/assets/1054e166-46b8-41fc-97cd-e1998ed4e34f" />
+<img width="1440" height="900" alt="Screenshot 2026-06-21 at 12 14 22 PM" src="https://github.com/user-attachments/assets/746bcf84-141a-4105-b414-fef1283edd76" />
+
+
+
+
